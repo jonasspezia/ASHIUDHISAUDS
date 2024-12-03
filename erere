@@ -1,4 +1,4 @@
-reamlit usa
+streamlit usa
 EXPOSE 8501
 
 # Comando para executar a aplicação
